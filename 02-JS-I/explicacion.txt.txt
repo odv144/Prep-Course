@@ -1,0 +1,19 @@
+Variables:
+	se puede decir que variables es como un contenedor caja que permite guardar algo y este algo podria variar
+en el transcurso del tiempo. Si se guarda una valor numerico este valor podria ser modificado mas tarde por otro.
+
+String:
+	Se puede considerar un string a una sucecion de caracteres.
+
+Funciones: 
+	es un trozo de codigo que podremos reutilizar las veces que necesitamos invocandola cuando queremos usarla,
+la misma podria recibir variables del exterior de ella, con informacion necesaria para que la funciona cumpla su 
+objetivo estas variables se las conoce como argumentos, una ves que la funcion realizo su objetivo podria devolver
+el resultado al exterior mediante el uso de RETURND.
+
+La declaración IF es utilizada para poder tomar deciciones sobre que instrucciones debe hacer el programa 
+cuando se cumplan o no determinadas circuntancias o condiciones.
+
+Los valores booleanos(true, false) es una representación binaria que solo puede tener un valor en un determinado momento
+o es true o es false, es 1 o 0, es verdadero o falso, pero nunca puede ser ambas en el mismo momento. Se lo utiliza 
+mucho para determinar condiciones, por ejemplo  (5 > 3) daria un resultado TRUE y (5 < 3) daria un valor FALSE
