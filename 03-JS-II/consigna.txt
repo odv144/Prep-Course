@@ -1,0 +1,7 @@
+El bucle for sirve cuando sabemos con exactitud la cantidad de veces que debe realizarse
+un bloque de codigo.
+El operador && (AND) sirve para determinar la condicion de verdadera para cuando sus dos
+operandos son verdaderos en todos los demas casos la condicion es falsas
+El operador || (OR) sirve para determinar la condicion como verdadera siempre que
+uno o mas de sus operando son verdadero. Solo es falsa cuando ambos lo son.
+El operador !(not) sirve para negar el estado booleano actual del operando.
