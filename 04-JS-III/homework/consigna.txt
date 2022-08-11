@@ -1,0 +1,2 @@
+Un array lo entiendo como una variable que permite guardar mas de un valores
+como si fuera un grupo y este se accede mediante un indice.
