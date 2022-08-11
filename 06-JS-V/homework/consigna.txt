@@ -1,0 +1,9 @@
+
+* `prototype`
+* _Constructors_ (de Clases)
+
+Prototype es a como entiendo el objeto superior de nivel todo metodo que no se encuentre en una clase definida sera buscada
+en el prototype y de estar disponible se usara.
+
+El constructor es la plantilla que permite darle forma al objeto es decir asignarle campos, metodos basicos y generales 
+para la mayoria de sus instancias.
