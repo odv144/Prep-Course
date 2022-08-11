@@ -1,0 +1,13 @@
+* Objetos
+	* Propiedades
+	* Métodos
+	* Bucle `for…in`
+	* Notación de puntos vs notación de corchetes
+
+Objetos se podria definir como un contenedor de otros tipos de datos o varibles, funciones 
+Propiedades se definen de esta forma a los nombre de las variables que estan dentro de un objeto
+Metodo son las funciones que se encuentran dentro de los objetos
+Bucle for in se usa especialmente para recorrer listas de objetos del mismo tipo que se encuentren del mismo contenedor
+la notacion de punto usada en los objetos permite una simplificaciones, pero la notacion de corchetes permite que 
+una propiedas del objeto sea referenciada desde una variable es decir pordria hacer objeto[variable] y el objeto podria
+tener las propiedades nombre, email, edad y de esa forma varible podria tomar  esos valores  usarla.
