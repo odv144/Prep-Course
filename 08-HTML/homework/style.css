@@ -1,0 +1,42 @@
+html {
+    background-image: url(./fondo.jpg);
+    background-attachment:scroll;
+    margin-top:20px;
+    margin-left:auto;
+    margin-right:auto;
+    display:flex;
+    justify-content:center;
+}
+
+
+h1{
+    color:red;
+    font-size:38px;
+    text-align:center;
+}
+h4{
+    color:forestgreen;
+
+}
+div{
+    margin-left:auto;
+    margin-right:auto;
+}
+img{
+    width:400px;
+    height:300px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: chartreuse;
+    padding: 50px;
+    border: 2px solid black;
+}
+#spanId{
+    font-size:18px;
+    margin:50px;
+}
+.divClass{
+
+}
