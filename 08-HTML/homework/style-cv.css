@@ -1,0 +1,52 @@
+html{
+    background-color:lemonchiffon;
+    margin:30px;
+    padding:15px;
+
+}
+#foto{
+    display:flex;
+    border:8px solid black;
+    flex-direction:row;
+    margin-left:auto;
+    margin-right:auto;
+    width:200px;
+    height:250px;
+}
+.encabezado h1 p {
+    border: 2px dotted black;
+    color:red;
+    display:flex;
+    margin-left:auto;
+    margin-right:auto;
+    width:500px;
+    font-size:40px;
+    text-align:center;
+}
+div span h4{
+    font-style:oblique;
+    text-align:center;
+    font-size:26px;
+    text-decoration-style:double;
+    font-weight:900;
+    color:brown;
+
+}
+div span h6{
+    border: 3px double red;
+    margin:30px;
+    padding:20px;
+
+    font-size:22px;
+    text-align:center;
+}
+.hobbies{
+    background-color:darkkhaki;
+    border-top-color:2px solid rebeccapurple;
+    border-left-color:2px solid rebeccapurple;
+    text-align:justify;
+    font-size:22px;
+    color:maroon;
+    margin:30px;
+    padding:20px;
+}
